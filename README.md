@@ -1,2 +1,7 @@
 # sppr_fist
-Основная информация будет описана в вики
+
+
+
+## Example
+
+<img src="images/image.png" width="300" height="532" />
