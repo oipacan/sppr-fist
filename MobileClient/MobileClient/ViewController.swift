@@ -9,7 +9,7 @@
 import UIKit
 import Charts
 
-class ViewController: UIViewController {
+class FPChartViewController: UIViewController {
 
     @IBOutlet weak var chartView: LineChartView!
     let options = [
@@ -122,7 +122,7 @@ class ViewController: UIViewController {
     }
 }
 
-extension ViewController: ChartViewDelegate {
+extension FPChartViewController: ChartViewDelegate {
     func chartValueSelected(chartView: ChartViewBase, entry: ChartDataEntry, dataSetIndex: Int, highlight: ChartHighlight) {
         print("chartValueSelected")
     }

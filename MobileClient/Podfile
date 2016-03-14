@@ -3,6 +3,7 @@
 use_frameworks!
 target 'MobileClient' do
 pod 'Charts'
+pod 'RealmSwift', '~> 0.98'
 end
 
 target 'MobileClientTests' do

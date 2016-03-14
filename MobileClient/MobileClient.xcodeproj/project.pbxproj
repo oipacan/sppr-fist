@@ -15,7 +15,7 @@
 		D9F3BE811C8D00C800722A41 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D9F3BE7F1C8D00C800722A41 /* LaunchScreen.storyboard */; };
 		D9F3BE8C1C8D00C800722A41 /* MobileClientTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9F3BE8B1C8D00C800722A41 /* MobileClientTests.swift */; };
 		D9F3BE971C8D00C800722A41 /* MobileClientUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9F3BE961C8D00C800722A41 /* MobileClientUITests.swift */; };
-		E41F2E2AA75F4CD6FCEC4BE7 /* Pods_MobileClient.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9B6CC58E867CA997AF73911F /* Pods_MobileClient.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
+		E41F2E2AA75F4CD6FCEC4BE7 /* Pods_MobileClient.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9B6CC58E867CA997AF73911F /* Pods_MobileClient.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
