@@ -1,6 +1,6 @@
 # sppr_fist
 
-See the main information on wiki
+See the main information on [wiki](https://github.com/oipacan/sppr-fist/wiki)
 
 # Overview
 
