@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		684112E41C96D44700C7BDA3 /* BalloonMarker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 684112E31C96D44700C7BDA3 /* BalloonMarker.swift */; };
 		D9F3BE771C8D00C800722A41 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9F3BE761C8D00C800722A41 /* AppDelegate.swift */; };
 		D9F3BE791C8D00C800722A41 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9F3BE781C8D00C800722A41 /* ViewController.swift */; };
 		D9F3BE7C1C8D00C800722A41 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D9F3BE7A1C8D00C800722A41 /* Main.storyboard */; };
@@ -37,6 +38,7 @@
 /* Begin PBXFileReference section */
 		0FC58B3B43A343331596ADDF /* Pods-MobileClient.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MobileClient.release.xcconfig"; path = "Pods/Target Support Files/Pods-MobileClient/Pods-MobileClient.release.xcconfig"; sourceTree = "<group>"; };
 		5A94DFD7532F7FE005FB855D /* Pods-MobileClient.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MobileClient.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MobileClient/Pods-MobileClient.debug.xcconfig"; sourceTree = "<group>"; };
+		684112E31C96D44700C7BDA3 /* BalloonMarker.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BalloonMarker.swift; sourceTree = "<group>"; };
 		9B6CC58E867CA997AF73911F /* Pods_MobileClient.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MobileClient.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D9F3BE731C8D00C700722A41 /* MobileClient.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MobileClient.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D9F3BE761C8D00C800722A41 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -115,6 +117,7 @@
 			children = (
 				D9F3BE761C8D00C800722A41 /* AppDelegate.swift */,
 				D9F3BE781C8D00C800722A41 /* ViewController.swift */,
+				684112E31C96D44700C7BDA3 /* BalloonMarker.swift */,
 				D9F3BE7A1C8D00C800722A41 /* Main.storyboard */,
 				D9F3BE7D1C8D00C800722A41 /* Assets.xcassets */,
 				D9F3BE7F1C8D00C800722A41 /* LaunchScreen.storyboard */,
@@ -334,6 +337,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				684112E41C96D44700C7BDA3 /* BalloonMarker.swift in Sources */,
 				D9F3BE791C8D00C800722A41 /* ViewController.swift in Sources */,
 				D9F3BE771C8D00C800722A41 /* AppDelegate.swift in Sources */,
 			);
