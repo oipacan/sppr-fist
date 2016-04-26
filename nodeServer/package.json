@@ -1,0 +1,20 @@
+{
+  "name": "sppr-server",
+  "description": "A package using naive versioning",
+  "author": "A confused individual <iam@confused.com>",
+  "dependencies": {
+    "express": ">= 4.13.0",
+    "serve-favicon": "~2.3.0",
+    "morgan": ">= 1.7.0",
+    "body-parser": "~1.15.0",
+    "method-override": "~2.3.5"
+  },
+  "engine": "node 0.4.1",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "version": "0.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "license": "BSD-2-Clause"
+}

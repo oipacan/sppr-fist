@@ -59,3 +59,8 @@ Carthage/Build
 
 fastlane/report.xml
 fastlane/screenshots
+
+
+#nodeServer
+nodeServer/node_modules/*
+nodeServer/.idea/*
